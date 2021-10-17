@@ -1,0 +1,3 @@
+rootProject.name = "MyGallery"
+include ':app'
+include ':gallerylayoutmanager'
